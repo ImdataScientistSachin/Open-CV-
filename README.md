@@ -1,6 +1,5 @@
-# practical OpenCV implementations
+# OpenCV Computer Vision Practical Tutorialss
 "My journey through computer vision basics. This repo contains organized code snippets, exercises, and examples demonstrating core OpenCV functionalities, from reading images to implementing filters."
-# OpenCV Computer Vision Practical Tutorials
 
 A comprehensive collection of **practical OpenCV implementations** demonstrating essential computer vision techniques. This repository contains interactive Jupyter notebooks with real-world applications, complete with GUI interfaces for easy experimentation and visualization.
 
