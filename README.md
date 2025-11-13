@@ -395,17 +395,6 @@ lines = cv2.HoughLines(edges, 1, np.pi/180, 200)
 
 ---
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-| Issue | Solution |
-|-------|----------|
-| Model file not found | Ensure `face_detection_yunet_2023mar.onnx` is in the project root |
-| Tkinter not available | Install `python-tk` package: `apt-get install python3-tk` |
-| Out of memory on video | Reduce video resolution or resize frames |
-| GUI not responding | Check if processing is running in main thread |
-
 ---
 
 ## 📚 Learning Resources
@@ -441,11 +430,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name** - Computer Vision & AI Enthusiast
+**Sachin Paunikar** - Computer Vision & AI Enthusiast
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: www.imdataScientistSachin@gmail.com
+- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/Sachinpaunikar)
+- 🐙 GitHub: [@yourusername](https://github.com/ImdataScientistSachin)
 
 ---
 
